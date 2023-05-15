@@ -1,0 +1,1695 @@
+#country+code,#country+name,#indicator+code,#indicator+name,#indicator+value+num,#date+year
+KGZ,Kyrgyzstan,38406,Multidimensional poverty index (MPI),0.001426,2008-2019
+KGZ,Kyrgyzstan,38506,"Population in multidimensional poverty, intensity of deprivation (%)",36.28123,2008-2019
+KGZ,Kyrgyzstan,38606,"Population in multidimensional poverty, headcount (%)",0.3930311,2008-2019
+KGZ,Kyrgyzstan,39006,"Population living below income poverty line, national poverty line (%)",22.4,2008-2019
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",38,2018
+KGZ,Kyrgyzstan,45806,Primary school teachers trained to teach (%),95.43013,2010-2019
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),122.57,2018
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),1.86197,2008-2018
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",24.98946,2010-2019
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.10707,2014-2018
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",28.50443,2014-2019
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",1.743691,2011-2019
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",94.014,2014-2018
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",210.663,2014-2018
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",2.189077613,2013-2018
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",107.56541,2014-2019
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",95.05481,2014-2019
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",41.26702,2014-2019
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),31.46921306,2014-2019
+KGZ,Kyrgyzstan,67106,"Income inequality, Gini coefficient",27.7,2010-2018
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),9.190405,2015-2018
+KGZ,Kyrgyzstan,98306,"Child malnutrition, stunting (moderate or severe) (% under age 5)",11.75342,2010-2019
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),5.157162,2010-2018
+KGZ,Kyrgyzstan,101006,Population in severe multidimensional poverty (%),0,2008-2019
+KGZ,Kyrgyzstan,101406,"Literacy rate, adult (% ages 15 and older)",99.586,2008-2018
+KGZ,Kyrgyzstan,102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",24.7767788,2008-2019
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),423,2011-2018
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),-1.57226,2010-2019
+KGZ,Kyrgyzstan,117806,Contribution of deprivation in education to the Multidimensional Poverty Index,17.853846,2008-2019
+KGZ,Kyrgyzstan,117906,Contribution of deprivation in health to the Multidimensional Poverty Index,64.60405,2008-2019
+KGZ,Kyrgyzstan,118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,17.542096,2008-2019
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",2971.455184,2019
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",6797.909178,2019
+KGZ,Kyrgyzstan,123806,Old-age pension recipients (% of statutory pension age population),100,2014-2019
+KGZ,Kyrgyzstan,128106,Mandatory paid maternity leave (days),126,2019
+KGZ,Kyrgyzstan,128306,"Prison population (per 100,000 people)",177.1,2013-2018
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",39.81791,2014-2019
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),103.085,2010-2019
+KGZ,Kyrgyzstan,135106,"Income inequality, quintile ratio",3.777778,2010-2017
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.67655394,2019
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.706742105,2019
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.957285458,2019
+KGZ,Kyrgyzstan,142506,Population vulnerable to multidimensional poverty (%),5.238377,2008-2019
+KGZ,Kyrgyzstan,147206,International student mobility (% of total tertiary enrolment),1.46935,2010-2017
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),6.02619,2013-2018
+KGZ,Kyrgyzstan,149406,Homeless people due to natural disaster (average annual per million people),82.97705207,2009/2019
+KGZ,Kyrgyzstan,164206,"Forest area, change (%)",-24.76076555,1990/2016
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),7.122602,2015-2018
+KGZ,Kyrgyzstan,167106,"Population living below income poverty line, PPP $1.90 a day (%)",0.9,2008-2018
+KGZ,Kyrgyzstan,167406,"Violence against women ever experienced, intimate partner (% of female population ages 15 and older)",26.6,2005-2019
+KGZ,Kyrgyzstan,167506,"Violence against women ever experienced, nonintimate partner (% of female population ages 15 and older)",0.1,2005-2019
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",31.26697,2015-2018
+KGZ,Kyrgyzstan,174306,Fossil fuel energy consumption (% of total energy consumption),75.47622,2013-2015
+KGZ,Kyrgyzstan,175206,"Antenatal care coverage, at least one visit (%)",99.8,2009-2019
+KGZ,Kyrgyzstan,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",39.4,2009-2019
+KGZ,Kyrgyzstan,175606,"Unmet need for family planning (% of married or in-union women of reproductive age, 15–49 years)",19,2009-2019
+KGZ,Kyrgyzstan,175906,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female (%)",11.28591,2009-2019
+KGZ,Kyrgyzstan,177706,Survival rate to the last grade of lower secondary general education (%),97.19105,2008-2018
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),32.9288,2015-2019
+KGZ,Kyrgyzstan,179406,Skilled labour force (% of labour force),92.68,2010-2019
+KGZ,Kyrgyzstan,179706,Ratio of education and health expenditure to military expenditure,7.317283,2010-2017
+KGZ,Kyrgyzstan,180706,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, male (%)",33.72773,2009-2019
+KGZ,Kyrgyzstan,181106,Birth registration (% under age 5),98.9,2009-2019
+KGZ,Kyrgyzstan,181206,Proportion of births attended by skilled health personnel (%),99.8,2014-2019
+KGZ,Kyrgyzstan,181306,Child labour (% ages 5-17),22.3,2010-2019
+KGZ,Kyrgyzstan,181406,"Child marriage, women married by age 18 (% of women ages 20–24 who are married or in union)",12.9,2005-2019
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),68,2017
+KGZ,Kyrgyzstan,183206,"Overall loss in HDI value due to inequality, average annual change (%)",-4.898166386,2010/2019
+KGZ,Kyrgyzstan,183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",24.7767788,2008-2019
+KGZ,Kyrgyzstan,183506,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female (%)",31.27617,2009-2019
+KGZ,Kyrgyzstan,183706,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are male (%)",68.72383,2009-2019
+KGZ,Kyrgyzstan,184006,Proportion of informal employment in nonagricultural employment (% of total employment in nonagriculture),68.07,2011-2019
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",0.29614,2009-2019
+KGZ,Kyrgyzstan,185306,Percentage of primary schools with access to the internet,41.4,2010-2019
+KGZ,Kyrgyzstan,185406,Percentage of secondary schools with access to the internet,43.6,2010-2019
+KGZ,Kyrgyzstan,186806,Average annual change in the share of bottom 40 percent (%),0.9475555,2005/2018
+KGZ,Kyrgyzstan,186906,Income share held by poorest 40%,23.4,2010-2018
+KGZ,Kyrgyzstan,187006,Income share held by richest 10 %,23.6,2010-2018
+KGZ,Kyrgyzstan,193006,"Proportion of informal employment in nonagricultural employment, female (% of total employment in nonagriculture)",55.65,2011-2019
+KGZ,Kyrgyzstan,44206,Total population (millions),7.446106,2030
+KGZ,Kyrgyzstan,47906,Median age (years),26.034,2020
+KGZ,Kyrgyzstan,110806,"Net migration rate (per 1,000 people)",-0.641,2020
+KGZ,Kyrgyzstan,21806,Refugees by country of origin (thousands),2.969,2019
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),98.42,2019
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",99.09042481,2019
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",98.34,2019
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",11.18735489,2019
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",11.01766576,2019
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),19.16666667,2019
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",32.763,2019
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),33.789,2019
+KGZ,Kyrgyzstan,44206,Total population (millions),6.415851,2019
+KGZ,Kyrgyzstan,45106,Urban population (%),36.6,2019
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",44.768,2019
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",75.735,2019
+KGZ,Kyrgyzstan,49006,Sex ratio at birth (male to female births),1.06,2019
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",28.504435,2019
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),4.035443,2019
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2019
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",1,2019
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),31.46921306,2019
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.369,2019
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),71.45,2019
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.96756,2019
+KGZ,Kyrgyzstan,71406,Inequality-adjusted education index,0.705798971,2019
+KGZ,Kyrgyzstan,71506,Inequality-adjusted life expectancy index,0.702094615,2019
+KGZ,Kyrgyzstan,71606,Inequality-adjusted income index,0.505624855,2019
+KGZ,Kyrgyzstan,73506,Overall loss in HDI due to inequality (%),9.612625538,2019
+KGZ,Kyrgyzstan,101606,Inequality in education (%),3.36425,2019
+KGZ,Kyrgyzstan,101706,Inequality in income (%),13.83059,2019
+KGZ,Kyrgyzstan,101806,Inequality in life expectancy (%),11.3,2019
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),11.10481377,2019
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.791538462,2019
+KGZ,Kyrgyzstan,103606,Income index,0.58677999,2019
+KGZ,Kyrgyzstan,103706,Education index,0.730370459,2019
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",14.354,2019
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",75.603,2019
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",67.437,2019
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),51.674,2019
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),7.314,2019
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",13.21047,2019
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",12.73308,2019
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.295145,2019
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.772574,2019
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),103.085,2019
+KGZ,Kyrgyzstan,135006,Coefficient of human inequality,9.49828,2019
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.697,2019
+KGZ,Kyrgyzstan,138806,Inequality-adjusted HDI (IHDI),0.63,2019
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",6.33,2019
+KGZ,Kyrgyzstan,146206,HDI rank,120,2019
+KGZ,Kyrgyzstan,147906,Youth not in school or employment (% ages 15-24),20.549,2019
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),59.831,2019
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),56.044,2019
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),21.172,2019
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),54.759,2019
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),13.686,2019
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.328411315,2019
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),2.001020976,2019
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",38.42569362,2019
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),32.928803,2019
+KGZ,Kyrgyzstan,181606,Red List Index (value),0.98464,2019
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",0.29614,2019
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",33.9187251,2019
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),5253.097478,2019
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),4864.390351,2019
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),98.42,2018
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",98.56,2018
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",98.34,2018
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",10.9516,2018
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",10.8092,2018
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),19.16666667,2018
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",35.57675,2018
+KGZ,Kyrgyzstan,38406,Multidimensional poverty index (MPI),0.001426,2018
+KGZ,Kyrgyzstan,38506,"Population in multidimensional poverty, intensity of deprivation (%)",36.28123,2018
+KGZ,Kyrgyzstan,38606,"Population in multidimensional poverty, headcount (%)",0.3930311,2018
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),33.889,2018
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",38,2018
+KGZ,Kyrgyzstan,44206,Total population (millions),6.304025,2018
+KGZ,Kyrgyzstan,45106,Urban population (%),36.4,2018
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),122.57,2018
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",24.98946,2018
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",45.026,2018
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",75.724,2018
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",32.505559,2018
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",1.7436913,2018
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",16.921962,2018
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",18.941158,2018
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",94.014,2018
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",210.663,2018
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2018
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",2.189077613,2018
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),3.981301,2018
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",107.56541,2018
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",95.05481,2018
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",41.26702,2018
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2018
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",2,2018
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),31.65044919,2018
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.375,2018
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),71.321,2018
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.97451,2018
+KGZ,Kyrgyzstan,71406,Inequality-adjusted education index,0.68707885,2018
+KGZ,Kyrgyzstan,71506,Inequality-adjusted life expectancy index,0.700235567,2018
+KGZ,Kyrgyzstan,71606,Inequality-adjusted income index,0.518295085,2018
+KGZ,Kyrgyzstan,73506,Overall loss in HDI due to inequality (%),9.626436782,2018
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),9.190404827,2018
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),5.1571619,2018
+KGZ,Kyrgyzstan,101006,Population in severe multidimensional poverty (%),0,2018
+KGZ,Kyrgyzstan,101406,"Literacy rate, adult (% ages 15 and older)",99.586,2018
+KGZ,Kyrgyzstan,101606,Inequality in education (%),4.97927,2018
+KGZ,Kyrgyzstan,101706,Inequality in income (%),12.2,2018
+KGZ,Kyrgyzstan,101806,Inequality in life expectancy (%),11.3125,2018
+KGZ,Kyrgyzstan,102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",25,2018
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.88040163,2018
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.789553846,2018
+KGZ,Kyrgyzstan,103606,Income index,0.590313309,2018
+KGZ,Kyrgyzstan,103706,Education index,0.72308311,2018
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",14.349,2018
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),423,2018
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),-1.57226,2018
+KGZ,Kyrgyzstan,117806,Contribution of deprivation in education to the Multidimensional Poverty Index,17.85385,2018
+KGZ,Kyrgyzstan,117906,Contribution of deprivation in health to the Multidimensional Poverty Index,64.60405,2018
+KGZ,Kyrgyzstan,118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,17.5421,2018
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",75.473,2018
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",67.333,2018
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),51.224,2018
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),7.117,2018
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",13.5661,2018
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",13.1627,2018
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",3055.179082,2018
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",6944.677315,2018
+KGZ,Kyrgyzstan,128306,"Prison population (per 100,000 people)",177.1,2018
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.283349,2018
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.787719,2018
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",39.81791,2018
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),98.87556,2018
+KGZ,Kyrgyzstan,135006,Coefficient of human inequality,9.497256667,2018
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.678458821,2018
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.709067763,2018
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.696,2018
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.956832133,2018
+KGZ,Kyrgyzstan,138806,Inequality-adjusted HDI (IHDI),0.629,2018
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",5.96,2018
+KGZ,Kyrgyzstan,142506,Population vulnerable to multidimensional poverty (%),5.238377,2018
+KGZ,Kyrgyzstan,146206,HDI rank,120,2018
+KGZ,Kyrgyzstan,147906,Youth not in school or employment (% ages 15-24),20.53,2018
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),59.965,2018
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),56.391,2018
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),21.967,2018
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),54.435,2018
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),14.176,2018
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),7.1226026,2018
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.139497878,2018
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),2.22767901,2018
+KGZ,Kyrgyzstan,170006,Concentration index (exports) (value),0.363814991,2018
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",31.266972,2018
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",38.76340937,2018
+KGZ,Kyrgyzstan,175206,"Antenatal care coverage, at least one visit (%)",99.8,2018
+KGZ,Kyrgyzstan,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",39.4,2018
+KGZ,Kyrgyzstan,175606,"Unmet need for family planning (% of married or in-union women of reproductive age, 15–49 years)",19,2018
+KGZ,Kyrgyzstan,175906,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female (%)",11.28591,2018
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),36.016629,2018
+KGZ,Kyrgyzstan,180706,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, male (%)",33.72773,2018
+KGZ,Kyrgyzstan,181206,Proportion of births attended by skilled health personnel (%),99.8,2018
+KGZ,Kyrgyzstan,181706,Rural population with access to electricity (%),100,2018
+KGZ,Kyrgyzstan,182106,"Malaria incidence (per 1,000 people at risk)",0,2018
+KGZ,Kyrgyzstan,182206,"Tuberculosis incidence (per 100,000 people)",116,2018
+KGZ,Kyrgyzstan,183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",25,2018
+KGZ,Kyrgyzstan,183506,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female (%)",31.27617,2018
+KGZ,Kyrgyzstan,183706,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are male (%)",68.72383,2018
+KGZ,Kyrgyzstan,184006,Proportion of informal employment in nonagricultural employment (% of total employment in nonagriculture),68.07,2018
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",0.28769,2018
+KGZ,Kyrgyzstan,193006,"Proportion of informal employment in nonagricultural employment, female (% of total employment in nonagriculture)",55.65,2018
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",32.45589292,2018
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),5133.151914,2018
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",1.599167517,2018
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),4979.513658,2018
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",18.3,2018
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",1.6,2018
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),98.42,2017
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",98.56,2017
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",98.34,2017
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",10.9454,2017
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",10.8032,2017
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),19.16666667,2017
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",38.3905,2017
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),33.978,2017
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",38,2017
+KGZ,Kyrgyzstan,44206,Total population (millions),6.189727,2017
+KGZ,Kyrgyzstan,45106,Urban population (%),36.1,2017
+KGZ,Kyrgyzstan,45806,Primary school teachers trained to teach (%),95.43013,2017
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),119.067,2017
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),1.86197,2017
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",24.91353,2017
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",46.018,2017
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",75.157,2017
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.10707,2017
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",32.270532,2017
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",-1.3918435,2017
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",17.853938,2017
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",19.994895,2017
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",95.042,2017
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",212.451,2017
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2017
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",4.135885153,2017
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),3.924694,2017
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",107.04243,2017
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",93.88858,2017
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",42.81687,2017
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",5,2017
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",6,2017
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),31.46573915,2017
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.378,2017
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),71.193,2017
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),13.03037,2017
+KGZ,Kyrgyzstan,71406,Inequality-adjusted education index,0.688221984,2017
+KGZ,Kyrgyzstan,71506,Inequality-adjusted life expectancy index,0.692286877,2017
+KGZ,Kyrgyzstan,71606,Inequality-adjusted income index,0.513514794,2017
+KGZ,Kyrgyzstan,73506,Overall loss in HDI due to inequality (%),9.942363112,2017
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",60,2017
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),8.89138325,2017
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),6.3422285,2017
+KGZ,Kyrgyzstan,101606,Inequality in education (%),5,2017
+KGZ,Kyrgyzstan,101706,Inequality in income (%),12.2,2017
+KGZ,Kyrgyzstan,101806,Inequality in life expectancy (%),12.1,2017
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.87468413,2017
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.787584615,2017
+KGZ,Kyrgyzstan,103606,Income index,0.584868786,2017
+KGZ,Kyrgyzstan,103706,Education index,0.724444193,2017
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",14.829,2017
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),421,2017
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),1.338244,2017
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",75.331,2017
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",67.227,2017
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),50.753,2017
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),6.96,2017
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",13.6522,2017
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",13.1592,2017
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",3030.86982,2017
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",6612.820364,2017
+KGZ,Kyrgyzstan,128306,"Prison population (per 100,000 people)",170.8,2017
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.273141,2017
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.798801,2017
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",38.7034,2017
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),100.61745,2017
+KGZ,Kyrgyzstan,135006,Coefficient of human inequality,9.766666667,2017
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.677988061,2017
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.705730507,2017
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.694,2017
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.960689746,2017
+KGZ,Kyrgyzstan,138806,Inequality-adjusted HDI (IHDI),0.625,2017
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",6.89,2017
+KGZ,Kyrgyzstan,147206,International student mobility (% of total tertiary enrolment),1.46935,2017
+KGZ,Kyrgyzstan,147906,Youth not in school or employment (% ages 15-24),21.02,2017
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),60.204,2017
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),56.056,2017
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),6.02619,2017
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),23.028,2017
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),53.825,2017
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),14.638,2017
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),7.4494342,2017
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.593951324,2017
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.794801875,2017
+KGZ,Kyrgyzstan,170006,Concentration index (exports) (value),0.394989736,2017
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",30.176333,2017
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",38.76350711,2017
+KGZ,Kyrgyzstan,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),38.85499954,2017
+KGZ,Kyrgyzstan,175906,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female (%)",13.26709,2017
+KGZ,Kyrgyzstan,177706,Survival rate to the last grade of lower secondary general education (%),97.19105,2017
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),32.902091,2017
+KGZ,Kyrgyzstan,179706,Ratio of education and health expenditure to military expenditure,7.317283,2017
+KGZ,Kyrgyzstan,180706,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, male (%)",31.09201,2017
+KGZ,Kyrgyzstan,181706,Rural population with access to electricity (%),100,2017
+KGZ,Kyrgyzstan,181806,Current health expenditure (% of GDP),6.185863,2017
+KGZ,Kyrgyzstan,182106,"Malaria incidence (per 1,000 people at risk)",0,2017
+KGZ,Kyrgyzstan,182206,"Tuberculosis incidence (per 100,000 people)",124,2017
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),68,2017
+KGZ,Kyrgyzstan,183506,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female (%)",38.70853,2017
+KGZ,Kyrgyzstan,183706,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are male (%)",61.29147,2017
+KGZ,Kyrgyzstan,183906,"Labour share of GDP, comprising wages and social protection transfers (%)",39.40000153,2017
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",2.29634,2017
+KGZ,Kyrgyzstan,185306,Percentage of primary schools with access to the internet,41.4,2017
+KGZ,Kyrgyzstan,185406,Percentage of secondary schools with access to the internet,43.6,2017
+KGZ,Kyrgyzstan,186706,"Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP)",0.43209,2017
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",31.28040348,2017
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),5046.691535,2017
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",1.527998057,2017
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),4803.232306,2017
+KGZ,Kyrgyzstan,195906,"Domestic material consumption per capita, (tonnes)",8.38183,2017
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",6.83,2017
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",0.31,2017
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),98.56,2016
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",98.68,2016
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",98.52,2016
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",10.9454,2016
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",10.8032,2016
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),19.16666667,2016
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",41.20425,2016
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),35.389,2016
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",37,2016
+KGZ,Kyrgyzstan,44206,Total population (millions),6.074327,2016
+KGZ,Kyrgyzstan,45106,Urban population (%),35.9,2016
+KGZ,Kyrgyzstan,45806,Primary school teachers trained to teach (%),94.99201,2016
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),125.339,2016
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),2.38778,2016
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",25.03207,2016
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",48.366,2016
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",75.475,2016
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.11121,2016
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",29.276105,2016
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",9.0886883,2016
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",18.856107,2016
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",21.143414,2016
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",98.667,2016
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",220.873,2016
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2016
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",4.395548676,2016
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),3.870727,2016
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",104.60147,2016
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",93.83472,2016
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",45.11104,2016
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2016
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",3,2016
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),31.79472602,2016
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.383,2016
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),71.054,2016
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.96703,2016
+KGZ,Kyrgyzstan,71406,Inequality-adjusted education index,0.686369457,2016
+KGZ,Kyrgyzstan,71506,Inequality-adjusted life expectancy index,0.690213164,2016
+KGZ,Kyrgyzstan,71606,Inequality-adjusted income index,0.509476626,2016
+KGZ,Kyrgyzstan,73506,Overall loss in HDI due to inequality (%),9.84081042,2016
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",63,2016
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),6.926729532,2016
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),8.0475056,2016
+KGZ,Kyrgyzstan,100806,Forest area (% of total land area),3.279457769,2016
+KGZ,Kyrgyzstan,101606,Inequality in education (%),5,2016
+KGZ,Kyrgyzstan,101706,Inequality in income (%),12.2,2016
+KGZ,Kyrgyzstan,101806,Inequality in life expectancy (%),12.1247,2016
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.86896663,2016
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.785446154,2016
+KGZ,Kyrgyzstan,103606,Income index,0.580269506,2016
+KGZ,Kyrgyzstan,103706,Education index,0.722494165,2016
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",15.553,2016
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),321,2016
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),-8.39181,2016
+KGZ,Kyrgyzstan,112506,"Suicide rate, male (per 100,000 people, age-standardized)",14.8,2016
+KGZ,Kyrgyzstan,112606,"Suicide rate, female (per 100,000 people, age-standardized)",3.7,2016
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",75.169,2016
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",67.107,2016
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),50.09,2016
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),6.84,2016
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",13.6522,2016
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",13.1592,2016
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",3110.33882,2016
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",6240.44913,2016
+KGZ,Kyrgyzstan,128306,"Prison population (per 100,000 people)",170,2016
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.264752,2016
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.795712,2016
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",30.53366,2016
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),105.82357,2016
+KGZ,Kyrgyzstan,135006,Coefficient of human inequality,9.7749,2016
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.67900289,2016
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.701897126,2016
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.691,2016
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.967382349,2016
+KGZ,Kyrgyzstan,138806,Inequality-adjusted HDI (IHDI),0.623,2016
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",7.21,2016
+KGZ,Kyrgyzstan,147206,International student mobility (% of total tertiary enrolment),1.40054,2016
+KGZ,Kyrgyzstan,147906,Youth not in school or employment (% ages 15-24),20.4,2016
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),61.57,2016
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),57.131,2016
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),6.58615,2016
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),26.79,2016
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),51.12,2016
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),14.363,2016
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),5.2217839,2016
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.414144684,2016
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.618159009,2016
+KGZ,Kyrgyzstan,170006,Concentration index (exports) (value),0.327703755,2016
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",18.27389,2016
+KGZ,Kyrgyzstan,174506,"Mortality rate attributed to household and ambient air pollution (per 100,000 population, age-standardized)",111,2016
+KGZ,Kyrgyzstan,174606,"Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population)",0.8,2016
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",39.06750813,2016
+KGZ,Kyrgyzstan,175906,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female (%)",9.55519,2016
+KGZ,Kyrgyzstan,177706,Survival rate to the last grade of lower secondary general education (%),95.54178,2016
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),33.939179,2016
+KGZ,Kyrgyzstan,179706,Ratio of education and health expenditure to military expenditure,7.363742,2016
+KGZ,Kyrgyzstan,180706,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, male (%)",32.87424,2016
+KGZ,Kyrgyzstan,181706,Rural population with access to electricity (%),99.877965,2016
+KGZ,Kyrgyzstan,181806,Current health expenditure (% of GDP),6.412482,2016
+KGZ,Kyrgyzstan,182106,"Malaria incidence (per 1,000 people at risk)",0,2016
+KGZ,Kyrgyzstan,182206,"Tuberculosis incidence (per 100,000 people)",133,2016
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),68,2016
+KGZ,Kyrgyzstan,183506,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female (%)",29.1343,2016
+KGZ,Kyrgyzstan,183706,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are male (%)",70.8657,2016
+KGZ,Kyrgyzstan,183906,"Labour share of GDP, comprising wages and social protection transfers (%)",40,2016
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",0.7808,2016
+KGZ,Kyrgyzstan,185106,"Age-standardized mortality rate attributed to noncommunicable diseases, female",610.4,2016
+KGZ,Kyrgyzstan,185206,"Age-standardized mortality rate attributed to noncommunicable diseases, male",990.2,2016
+KGZ,Kyrgyzstan,186706,"Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP)",0.47167,2016
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",29.86482931,2016
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),4912.382483,2016
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",1.587055692,2016
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),4659.189544,2016
+KGZ,Kyrgyzstan,195906,"Domestic material consumption per capita, (tonnes)",8.3451,2016
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",10.33,2016
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",1.48,2016
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),98.7,2015
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",98.8,2015
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",98.7,2015
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",10.9312,2015
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",10.7037,2015
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),19.16666667,2015
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",44.018,2015
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),38.03,2015
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",30.247,2015
+KGZ,Kyrgyzstan,44206,Total population (millions),5.959126,2015
+KGZ,Kyrgyzstan,45106,Urban population (%),35.8,2015
+KGZ,Kyrgyzstan,45806,Primary school teachers trained to teach (%),92.78416,2015
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),127.191,2015
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),1.66515,2015
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",26.19366,2015
+KGZ,Kyrgyzstan,47906,Median age (years),25.066,2015
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",49.892,2015
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",75.529,2015
+KGZ,Kyrgyzstan,49006,Sex ratio at birth (male to female births),1.06,2015
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.11903,2015
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",25.271891,2015
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",17.131229,2015
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",19.904146,2015
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",22.344501,2015
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",102.292,2015
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",229.295,2015
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2015
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",5.118200219,2015
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),3.823662,2015
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",105.41007,2015
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",91.06977,2015
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",46.66787,2015
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2015
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",1,2015
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),32.58800333,2015
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.389,2015
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),70.876,2015
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),13.01056,2015
+KGZ,Kyrgyzstan,71406,Inequality-adjusted education index,0.687337111,2015
+KGZ,Kyrgyzstan,71506,Inequality-adjusted life expectancy index,0.675976889,2015
+KGZ,Kyrgyzstan,71606,Inequality-adjusted income index,0.47685475,2015
+KGZ,Kyrgyzstan,73506,Overall loss in HDI due to inequality (%),12.31884058,2015
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",66,2015
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),5.807157748,2015
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),12.071876,2015
+KGZ,Kyrgyzstan,100806,Forest area (% of total land area),3.321167883,2015
+KGZ,Kyrgyzstan,101606,Inequality in education (%),5,2015
+KGZ,Kyrgyzstan,101706,Inequality in income (%),17.7,2015
+KGZ,Kyrgyzstan,101806,Inequality in life expectancy (%),13.6361,2015
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.86324913,2015
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.782707692,2015
+KGZ,Kyrgyzstan,103606,Income index,0.579410389,2015
+KGZ,Kyrgyzstan,103706,Education index,0.723512749,2015
+KGZ,Kyrgyzstan,110806,"Net migration rate (per 1,000 people)",-3.281,2015
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",15.016,2015
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),402,2015
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),-13.17795,2015
+KGZ,Kyrgyzstan,112506,"Suicide rate, male (per 100,000 people, age-standardized)",14.5,2015
+KGZ,Kyrgyzstan,112606,"Suicide rate, female (per 100,000 people, age-standardized)",3.5,2015
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",74.965,2015
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",66.942,2015
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),49.092,2015
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),6.756,2015
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",13.6113,2015
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",12.922,2015
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",3155.881657,2015
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",6140.776932,2015
+KGZ,Kyrgyzstan,128306,"Prison population (per 100,000 people)",170.3,2015
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.258341,2015
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.771668,2015
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",27.89131,2015
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),110.96157,2015
+KGZ,Kyrgyzstan,135006,Coefficient of human inequality,12.11203333,2015
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.678589709,2015
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.697005836,2015
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.69,2015
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.973578231,2015
+KGZ,Kyrgyzstan,138806,Inequality-adjusted HDI (IHDI),0.605,2015
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",7.56,2015
+KGZ,Kyrgyzstan,147206,International student mobility (% of total tertiary enrolment),1.23106,2015
+KGZ,Kyrgyzstan,147906,Youth not in school or employment (% ages 15-24),21.42,2015
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),62.384,2015
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),57.668,2015
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),5.98551,2015
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),29.31,2015
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),49.79,2015
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),18.499,2015
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),-11.078246,2015
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.379183861,2015
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.521590185,2015
+KGZ,Kyrgyzstan,170006,Concentration index (exports) (value),0.453932482,2015
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",16.814147,2015
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",38.84829528,2015
+KGZ,Kyrgyzstan,175906,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female (%)",8.54322,2015
+KGZ,Kyrgyzstan,177706,Survival rate to the last grade of lower secondary general education (%),96.9658,2015
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),34.671469,2015
+KGZ,Kyrgyzstan,179706,Ratio of education and health expenditure to military expenditure,7.49694,2015
+KGZ,Kyrgyzstan,180706,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, male (%)",22.38635,2015
+KGZ,Kyrgyzstan,181706,Rural population with access to electricity (%),99.693558,2015
+KGZ,Kyrgyzstan,181806,Current health expenditure (% of GDP),7.149309,2015
+KGZ,Kyrgyzstan,182106,"Malaria incidence (per 1,000 people at risk)",0,2015
+KGZ,Kyrgyzstan,182206,"Tuberculosis incidence (per 100,000 people)",136,2015
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),66,2015
+KGZ,Kyrgyzstan,183506,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female (%)",30.17125,2015
+KGZ,Kyrgyzstan,183706,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are male (%)",69.82875,2015
+KGZ,Kyrgyzstan,183906,"Labour share of GDP, comprising wages and social protection transfers (%)",38.5,2015
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",0.89905,2015
+KGZ,Kyrgyzstan,185006,Degraded land (% of total land area),24,2015
+KGZ,Kyrgyzstan,185106,"Age-standardized mortality rate attributed to noncommunicable diseases, female",624,2015
+KGZ,Kyrgyzstan,185206,"Age-standardized mortality rate attributed to noncommunicable diseases, male",980.4,2015
+KGZ,Kyrgyzstan,186706,"Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP)",0.52375,2015
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",28.62374497,2015
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),4805.141092,2015
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",1.724667111,2015
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),4632.765992,2015
+KGZ,Kyrgyzstan,195906,"Domestic material consumption per capita, (tonnes)",8.30859,2015
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",9.43,2015
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",0.33,2015
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),98.086,2014
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",97.942,2014
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",98.312,2014
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",10.9312,2014
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",10.6735,2014
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),23.33333333,2014
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",41.1636,2014
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),41.363,2014
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",28.3,2014
+KGZ,Kyrgyzstan,44206,Total population (millions),5.844521,2014
+KGZ,Kyrgyzstan,45106,Urban population (%),35.6,2014
+KGZ,Kyrgyzstan,45806,Primary school teachers trained to teach (%),93.03057,2014
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),129.411,2014
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),3.28245,2014
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",25.30667,2014
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",50.388,2014
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",75.033,2014
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.12536,2014
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",30.032114,2014
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",4.5930137,2014
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",20.949755,2014
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",23.546215,2014
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",105.916,2014
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",237.716,2014
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2014
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",5.475213452,2014
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),3.773213,2014
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",105.81745,2014
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",90.85203,2014
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",45.87522,2014
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2014
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",4,2014
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),32.49102807,2014
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.375,2014
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),70.626,2014
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.9312,2014
+KGZ,Kyrgyzstan,71406,Inequality-adjusted education index,0.683311645,2014
+KGZ,Kyrgyzstan,71506,Inequality-adjusted life expectancy index,0.623089231,2014
+KGZ,Kyrgyzstan,71606,Inequality-adjusted income index,0.474347908,2014
+KGZ,Kyrgyzstan,73506,Overall loss in HDI due to inequality (%),14.43148688,2014
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",69,2014
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),5.635339218,2014
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),8.7518376,2014
+KGZ,Kyrgyzstan,100806,Forest area (% of total land area),3.362877998,2014
+KGZ,Kyrgyzstan,101606,Inequality in education (%),5,2014
+KGZ,Kyrgyzstan,101706,Inequality in income (%),17.7,2014
+KGZ,Kyrgyzstan,101806,Inequality in life expectancy (%),20,2014
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.80226247,2014
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.778861538,2014
+KGZ,Kyrgyzstan,103606,Income index,0.576364408,2014
+KGZ,Kyrgyzstan,103706,Education index,0.719275416,2014
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",13.963,2014
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),413,2014
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),-3.086274,2014
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",74.695,2014
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",66.698,2014
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),48.22,2014
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),6.675,2014
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",13.5424,2014
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",12.9208,2014
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",3003.979081,2014
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",6109.693151,2014
+KGZ,Kyrgyzstan,128306,"Prison population (per 100,000 people)",163.9,2014
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.251877,2014
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.750071,2014
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",25.47683,2014
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),125.12618,2014
+KGZ,Kyrgyzstan,135006,Coefficient of human inequality,14.23333333,2014
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.673601348,2014
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.695234298,2014
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.686,2014
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.968883944,2014
+KGZ,Kyrgyzstan,138806,Inequality-adjusted HDI (IHDI),0.587,2014
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",8.05,2014
+KGZ,Kyrgyzstan,147206,International student mobility (% of total tertiary enrolment),1.38213,2014
+KGZ,Kyrgyzstan,147906,Youth not in school or employment (% ages 15-24),20.72,2014
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),62.398,2014
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),57.375,2014
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),5.5316,2014
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),31.59,2014
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),47.98,2014
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),15.224,2014
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),-10.1992,2014
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.350021334,2014
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.426229508,2014
+KGZ,Kyrgyzstan,170006,Concentration index (exports) (value),0.370357274,2014
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",12.164615,2014
+KGZ,Kyrgyzstan,174306,Fossil fuel energy consumption (% of total energy consumption),75.47621896,2014
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",39.03350807,2014
+KGZ,Kyrgyzstan,175206,"Antenatal care coverage, at least one visit (%)",98.4,2014
+KGZ,Kyrgyzstan,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",42,2014
+KGZ,Kyrgyzstan,175606,"Unmet need for family planning (% of married or in-union women of reproductive age, 15–49 years)",19.1,2014
+KGZ,Kyrgyzstan,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),18.92935753,2014
+KGZ,Kyrgyzstan,177706,Survival rate to the last grade of lower secondary general education (%),94.78272,2014
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),36.756727,2014
+KGZ,Kyrgyzstan,179706,Ratio of education and health expenditure to military expenditure,7.521882,2014
+KGZ,Kyrgyzstan,181206,Proportion of births attended by skilled health personnel (%),98.4,2014
+KGZ,Kyrgyzstan,181706,Rural population with access to electricity (%),99.744636,2014
+KGZ,Kyrgyzstan,181806,Current health expenditure (% of GDP),7.357664,2014
+KGZ,Kyrgyzstan,182106,"Malaria incidence (per 1,000 people at risk)",0,2014
+KGZ,Kyrgyzstan,182206,"Tuberculosis incidence (per 100,000 people)",126,2014
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),65,2014
+KGZ,Kyrgyzstan,183906,"Labour share of GDP, comprising wages and social protection transfers (%)",39,2014
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",1.14637,2014
+KGZ,Kyrgyzstan,186706,"Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP)",0.49652,2014
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",27.55573287,2014
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),4722.086003,2014
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",1.727187053,2014
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),4540.283615,2014
+KGZ,Kyrgyzstan,195906,"Domestic material consumption per capita, (tonnes)",8.3439,2014
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",26.37,2014
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",3.66,2014
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),97.472,2013
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",97.084,2013
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",97.924,2013
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",10.8409,2013
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",10.6432,2013
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),23.33333333,2013
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",38.3092,2013
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),42.378,2013
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",23,2013
+KGZ,Kyrgyzstan,44206,Total population (millions),5.731312,2013
+KGZ,Kyrgyzstan,45106,Urban population (%),35.5,2013
+KGZ,Kyrgyzstan,45806,Primary school teachers trained to teach (%),92.14503,2013
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),117.556,2013
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),1.20556,2013
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",24.54686,2013
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",49.215,2013
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",76.482,2013
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.14914,2013
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",31.056436,2013
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",8.3437573,2013
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",21.991332,2013
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",24.744568,2013
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",109.541,2013
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",246.138,2013
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2013
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",5.251851583,2013
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),3.722771,2013
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",105.02094,2013
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",89.0277,2013
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",47.48235,2013
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2013
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",2,2013
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),29.55950946,2013
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.375,2013
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),70.289,2013
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.68334,2013
+KGZ,Kyrgyzstan,71406,Inequality-adjusted education index,0.66347393,2013
+KGZ,Kyrgyzstan,71506,Inequality-adjusted life expectancy index,0.618941538,2013
+KGZ,Kyrgyzstan,71606,Inequality-adjusted income index,0.433334781,2013
+KGZ,Kyrgyzstan,73506,Overall loss in HDI due to inequality (%),17.35294118,2013
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",70,2013
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),7.09484343,2013
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),7.8045118,2013
+KGZ,Kyrgyzstan,100806,Forest area (% of total land area),3.404588113,2013
+KGZ,Kyrgyzstan,101606,Inequality in education (%),6.6,2013
+KGZ,Kyrgyzstan,101706,Inequality in income (%),24.1,2013
+KGZ,Kyrgyzstan,101806,Inequality in life expectancy (%),20,2013
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.74127581,2013
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.773676923,2013
+KGZ,Kyrgyzstan,103606,Income index,0.570928565,2013
+KGZ,Kyrgyzstan,103706,Education index,0.710357527,2013
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",13.386,2013
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),415,2013
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),-8.505405,2013
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",74.353,2013
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",66.362,2013
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),47.311,2013
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),6.641,2013
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",13.3681,2013
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",12.7644,2013
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",2873.320377,2013
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",5919.876672,2013
+KGZ,Kyrgyzstan,128306,"Prison population (per 100,000 people)",174.4,2013
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.247242,2013
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.720572,2013
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",26.34639,2013
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),134.02679,2013
+KGZ,Kyrgyzstan,135006,Coefficient of human inequality,16.9,2013
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.6668125,2013
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.690136806,2013
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.68,2013
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.966203358,2013
+KGZ,Kyrgyzstan,138806,Inequality-adjusted HDI (IHDI),0.562,2013
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",8.33,2013
+KGZ,Kyrgyzstan,147206,International student mobility (% of total tertiary enrolment),1.88016,2013
+KGZ,Kyrgyzstan,147906,Youth not in school or employment (% ages 15-24),21.23,2013
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),62.503,2013
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),57.297,2013
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),6.7802,2013
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),31.673,2013
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),48.125,2013
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),21.455,2013
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),-10.022781,2013
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.30013459,2013
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.31829197,2013
+KGZ,Kyrgyzstan,170006,Concentration index (exports) (value),0.424077929,2013
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",10.077616,2013
+KGZ,Kyrgyzstan,174306,Fossil fuel energy consumption (% of total energy consumption),72.20951787,2013
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",39.05444036,2013
+KGZ,Kyrgyzstan,177706,Survival rate to the last grade of lower secondary general education (%),96.57793,2013
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),33.898836,2013
+KGZ,Kyrgyzstan,179406,Skilled labour force (% of labour force),92.68,2013
+KGZ,Kyrgyzstan,179706,Ratio of education and health expenditure to military expenditure,9.225846,2013
+KGZ,Kyrgyzstan,181206,Proportion of births attended by skilled health personnel (%),99,2013
+KGZ,Kyrgyzstan,181706,Rural population with access to electricity (%),99.311144,2013
+KGZ,Kyrgyzstan,181806,Current health expenditure (% of GDP),8.187451,2013
+KGZ,Kyrgyzstan,182106,"Malaria incidence (per 1,000 people at risk)",0,2013
+KGZ,Kyrgyzstan,182206,"Tuberculosis incidence (per 100,000 people)",142,2013
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),63,2013
+KGZ,Kyrgyzstan,183906,"Labour share of GDP, comprising wages and social protection transfers (%)",41.40000153,2013
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",1.65756,2013
+KGZ,Kyrgyzstan,186706,"Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP)",0.50043,2013
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",26.48977412,2013
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),4631.403267,2013
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",1.685218876,2013
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),4379.803244,2013
+KGZ,Kyrgyzstan,195906,"Domestic material consumption per capita, (tonnes)",8.31035,2013
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",21.51,2013
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",4.37,2013
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),96.858,2012
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",96.226,2012
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",97.536,2012
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",10.7507,2012
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",10.6129,2012
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),23.33333333,2012
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",35.4548,2012
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),36.159,2012
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",19.8,2012
+KGZ,Kyrgyzstan,44206,Total population (millions),5.621583,2012
+KGZ,Kyrgyzstan,45106,Urban population (%),35.4,2012
+KGZ,Kyrgyzstan,45806,Primary school teachers trained to teach (%),71.97358,2012
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),120.924,2012
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),2.25683,2012
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",23.89988,2012
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",51.576,2012
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",76.9,2012
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.1661,2012
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",30.754446,2012
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",3.9503705,2012
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",23.137555,2012
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",26.066882,2012
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",113.165,2012
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",254.56,2012
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2012
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",6.759661825,2012
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),3.670719,2012
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",103.1013,2012
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",88.37131,2012
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",43.95517,2012
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2012
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",4,2012
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),31.39140397,2012
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.37,2012
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),69.868,2012
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.74072,2012
+KGZ,Kyrgyzstan,71406,Inequality-adjusted education index,0.663773823,2012
+KGZ,Kyrgyzstan,71506,Inequality-adjusted life expectancy index,0.6152944,2012
+KGZ,Kyrgyzstan,71606,Inequality-adjusted income index,0.427443856,2012
+KGZ,Kyrgyzstan,73506,Overall loss in HDI due to inequality (%),17.06231454,2012
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",74,2012
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),5.234019159,2012
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),7.3104676,2012
+KGZ,Kyrgyzstan,100806,Forest area (% of total land area),3.446298227,2012
+KGZ,Kyrgyzstan,101606,Inequality in education (%),6.5,2012
+KGZ,Kyrgyzstan,101706,Inequality in income (%),24.1,2012
+KGZ,Kyrgyzstan,101806,Inequality in life expectancy (%),19.8,2012
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.68028914,2012
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.7672,2012
+KGZ,Kyrgyzstan,103606,Income index,0.563167136,2012
+KGZ,Kyrgyzstan,103706,Education index,0.709918527,2012
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",17.464,2012
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),348,2012
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),-4.280372,2012
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",73.941,2012
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",65.936,2012
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),46.479,2012
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),6.667,2012
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",12.9618,2012
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",12.5224,2012
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",2804.686952,2012
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",5547.507344,2012
+KGZ,Kyrgyzstan,128306,"Prison population (per 100,000 people)",174.8,2012
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.244743,2012
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.684518,2012
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",24.06679,2012
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),139.67594,2012
+KGZ,Kyrgyzstan,135006,Coefficient of human inequality,16.8,2012
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.65909962,2012
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.681958092,2012
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.674,2012
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.966481119,2012
+KGZ,Kyrgyzstan,138806,Inequality-adjusted HDI (IHDI),0.559,2012
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",8.43,2012
+KGZ,Kyrgyzstan,147206,International student mobility (% of total tertiary enrolment),1.57137,2012
+KGZ,Kyrgyzstan,147906,Youth not in school or employment (% ages 15-24),22.279,2012
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),63.917,2012
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),58.529,2012
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),7.38423,2012
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),30.09,2012
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),48.2,2012
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),16.867,2012
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),-0.85689279,2012
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.231509164,2012
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.246625,2012
+KGZ,Kyrgyzstan,170006,Concentration index (exports) (value),0.281435106,2012
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",9.8343838,2012
+KGZ,Kyrgyzstan,174306,Fossil fuel energy consumption (% of total energy consumption),73.86900016,2012
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.19388881,2012
+KGZ,Kyrgyzstan,175206,"Antenatal care coverage, at least one visit (%)",97,2012
+KGZ,Kyrgyzstan,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",36.3,2012
+KGZ,Kyrgyzstan,175606,"Unmet need for family planning (% of married or in-union women of reproductive age, 15–49 years)",18,2012
+KGZ,Kyrgyzstan,175906,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female (%)",11.2195,2012
+KGZ,Kyrgyzstan,177706,Survival rate to the last grade of lower secondary general education (%),95.47973,2012
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),34.961074,2012
+KGZ,Kyrgyzstan,179406,Skilled labour force (% of labour force),92.17,2012
+KGZ,Kyrgyzstan,179706,Ratio of education and health expenditure to military expenditure,9.763,2012
+KGZ,Kyrgyzstan,180706,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, male (%)",25.33043,2012
+KGZ,Kyrgyzstan,181206,Proportion of births attended by skilled health personnel (%),99.1,2012
+KGZ,Kyrgyzstan,181706,Rural population with access to electricity (%),99.8,2012
+KGZ,Kyrgyzstan,181806,Current health expenditure (% of GDP),8.509663,2012
+KGZ,Kyrgyzstan,182106,"Malaria incidence (per 1,000 people at risk)",0,2012
+KGZ,Kyrgyzstan,182206,"Tuberculosis incidence (per 100,000 people)",127,2012
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),61,2012
+KGZ,Kyrgyzstan,183506,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female (%)",41.30435,2012
+KGZ,Kyrgyzstan,183706,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are male (%)",58.69565,2012
+KGZ,Kyrgyzstan,183906,"Labour share of GDP, comprising wages and social protection transfers (%)",40.59999847,2012
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",1.76107,2012
+KGZ,Kyrgyzstan,186706,"Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP)",0.6066,2012
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",23.88284903,2012
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),4259.318203,2012
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",1.778825013,2012
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),4160.447226,2012
+KGZ,Kyrgyzstan,195906,"Domestic material consumption per capita, (tonnes)",7.77914,2012
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",19.91,2012
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",3.03,2012
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),96.244,2011
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",95.368,2011
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",97.148,2011
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",10.6604,2011
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",10.5827,2011
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),23.33333333,2011
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",32.6004,2011
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),36.178,2011
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",17.5,2011
+KGZ,Kyrgyzstan,44206,Total population (millions),5.517927,2011
+KGZ,Kyrgyzstan,45106,Urban population (%),35.4,2011
+KGZ,Kyrgyzstan,45806,Primary school teachers trained to teach (%),69.65777,2011
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),113.759,2011
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),2.94636,2011
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",24.91639,2011
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",52.627,2011
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",77.055,2011
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.15633,2011
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",27.569514,2011
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",11.064645,2011
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",24.502306,2011
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",27.682302,2011
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",118.485,2011
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",264.191,2011
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.1,2011
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",8.463323273,2011
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),3.615228,2011
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",99.68409,2011
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",87.50063,2011
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",41.3146,2011
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2011
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",3,2011
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),23.69125257,2011
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.367,2011
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),69.376,2011
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.34664,2011
+KGZ,Kyrgyzstan,71406,Inequality-adjusted education index,0.619578746,2011
+KGZ,Kyrgyzstan,71506,Inequality-adjusted life expectancy index,0.609223877,2011
+KGZ,Kyrgyzstan,71606,Inequality-adjusted income index,0.484764926,2011
+KGZ,Kyrgyzstan,73506,Overall loss in HDI due to inequality (%),14.45783133,2011
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",79,2011
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),9.95223623,2011
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),7.9052278,2011
+KGZ,Kyrgyzstan,100806,Forest area (% of total land area),3.488008342,2011
+KGZ,Kyrgyzstan,101606,Inequality in education (%),11.1,2011
+KGZ,Kyrgyzstan,101706,Inequality in income (%),12.2,2011
+KGZ,Kyrgyzstan,101806,Inequality in life expectancy (%),19.8,2011
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.61930248,2011
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.759630769,2011
+KGZ,Kyrgyzstan,103606,Income index,0.552124061,2011
+KGZ,Kyrgyzstan,103706,Education index,0.696938972,2011
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",16.461,2011
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),337,2011
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),-11.12108,2011
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",73.475,2011
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",65.437,2011
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),45.873,2011
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),6.757,2011
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",12.5581,2011
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",12.1373,2011
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",2637.641544,2011
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",5125.6285,2011
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.244269,2011
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.645295,2011
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",20.30705,2011
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),136.17984,2011
+KGZ,Kyrgyzstan,135006,Coefficient of human inequality,14.36666667,2011
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.648705228,2011
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.671341697,2011
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.664,2011
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.966281746,2011
+KGZ,Kyrgyzstan,138806,Inequality-adjusted HDI (IHDI),0.568,2011
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",8.53,2011
+KGZ,Kyrgyzstan,147206,International student mobility (% of total tertiary enrolment),2.8976,2011
+KGZ,Kyrgyzstan,147906,Youth not in school or employment (% ages 15-24),20.688,2011
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),64.531,2011
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),59.026,2011
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),6.79062,2011
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),31.059,2011
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),47.543,2011
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),16.728,2011
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),2.8453683,2011
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.299432793,2011
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.370226357,2011
+KGZ,Kyrgyzstan,170006,Concentration index (exports) (value),0.286713119,2011
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",12.686178,2011
+KGZ,Kyrgyzstan,174306,Fossil fuel energy consumption (% of total energy consumption),70.10080255,2011
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.48506593,2011
+KGZ,Kyrgyzstan,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),3.944266558,2011
+KGZ,Kyrgyzstan,175906,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female (%)",11.31875,2011
+KGZ,Kyrgyzstan,177706,Survival rate to the last grade of lower secondary general education (%),95.02121,2011
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),25.472964,2011
+KGZ,Kyrgyzstan,179406,Skilled labour force (% of labour force),91.4,2011
+KGZ,Kyrgyzstan,179706,Ratio of education and health expenditure to military expenditure,9.966747,2011
+KGZ,Kyrgyzstan,180706,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, male (%)",25.42075,2011
+KGZ,Kyrgyzstan,181206,Proportion of births attended by skilled health personnel (%),98.6,2011
+KGZ,Kyrgyzstan,181706,Rural population with access to electricity (%),99.192469,2011
+KGZ,Kyrgyzstan,181806,Current health expenditure (% of GDP),7.107291,2011
+KGZ,Kyrgyzstan,182106,"Malaria incidence (per 1,000 people at risk)",0,2011
+KGZ,Kyrgyzstan,182206,"Tuberculosis incidence (per 100,000 people)",125,2011
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),59,2011
+KGZ,Kyrgyzstan,183506,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female (%)",40.01298,2011
+KGZ,Kyrgyzstan,183706,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are male (%)",59.98702,2011
+KGZ,Kyrgyzstan,183906,"Labour share of GDP, comprising wages and social protection transfers (%)",39.20000076,2011
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",2.53718,2011
+KGZ,Kyrgyzstan,186706,"Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP)",0.45699,2011
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",23.90392038,2011
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),4334.660788,2011
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",1.368903004,2011
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3867.145395,2011
+KGZ,Kyrgyzstan,195906,"Domestic material consumption per capita, (tonnes)",7.45549,2011
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",16.62,2011
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",1.45,2011
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),95.63,2010
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",94.51885,2010
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",96.76,2010
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",10.5702,2010
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",10.5524,2010
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),23.33333333,2010
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",29.746,2010
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),36.262,2010
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",16.3,2010
+KGZ,Kyrgyzstan,44206,Total population (millions),5.422298,2010
+KGZ,Kyrgyzstan,45106,Urban population (%),35.3,2010
+KGZ,Kyrgyzstan,45806,Primary school teachers trained to teach (%),68.4132,2010
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),97.2924,2010
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),4.70502,2010
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",24.28436,2010
+KGZ,Kyrgyzstan,47906,Median age (years),24,2010
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",52.157,2010
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",76.622,2010
+KGZ,Kyrgyzstan,49006,Sex ratio at birth (male to female births),1.06,2010
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.15547,2010
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",26.410116,2010
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",9.8609307,2010
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",26.104823,2010
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",29.579158,2010
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",123.804,2010
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",273.822,2010
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.1,2010
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",16.76410998,2010
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),3.555922,2010
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",99.46109,2010
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",87.57795,2010
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",42.1598,2010
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2010
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",1,2010
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),27.76471133,2010
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.361,2010
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),68.849,2010
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.40522,2010
+KGZ,Kyrgyzstan,71406,Inequality-adjusted education index,0.619218108,2010
+KGZ,Kyrgyzstan,71506,Inequality-adjusted life expectancy index,0.589194092,2010
+KGZ,Kyrgyzstan,71606,Inequality-adjusted income index,0.485537399,2010
+KGZ,Kyrgyzstan,73506,Overall loss in HDI due to inequality (%),15.10574018,2010
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",79,2010
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),8.429690744,2010
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),8.2873389,2010
+KGZ,Kyrgyzstan,100806,Forest area (% of total land area),3.529718457,2010
+KGZ,Kyrgyzstan,101606,Inequality in education (%),11.1,2010
+KGZ,Kyrgyzstan,101706,Inequality in income (%),12.2,2010
+KGZ,Kyrgyzstan,101806,Inequality in life expectancy (%),21.6,2010
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.55831582,2010
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.751523077,2010
+KGZ,Kyrgyzstan,103606,Income index,0.553003871,2010
+KGZ,Kyrgyzstan,103706,Education index,0.696533305,2010
+KGZ,Kyrgyzstan,110806,"Net migration rate (per 1,000 people)",-2.919,2010
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",16.522,2010
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),259,2010
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),-10.05842,2010
+KGZ,Kyrgyzstan,112506,"Suicide rate, male (per 100,000 people, age-standardized)",20,2010
+KGZ,Kyrgyzstan,112606,"Suicide rate, female (per 100,000 people, age-standardized)",4.4,2010
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",72.984,2010
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",64.901,2010
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),45.589,2010
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),6.898,2010
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",12.6574,2010
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",12.1548,2010
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",2646.53438,2010
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",5162.135645,2010
+KGZ,Kyrgyzstan,128306,"Prison population (per 100,000 people)",183,2010
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.245272,2010
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.605253,2010
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",18.79609,2010
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),133.23285,2010
+KGZ,Kyrgyzstan,135006,Coefficient of human inequality,14.96666667,2010
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.646761257,2010
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.669062381,2010
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.662,2010
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.966668095,2010
+KGZ,Kyrgyzstan,138806,Inequality-adjusted HDI (IHDI),0.562,2010
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",8.64,2010
+KGZ,Kyrgyzstan,147206,International student mobility (% of total tertiary enrolment),4.37519,2010
+KGZ,Kyrgyzstan,147906,Youth not in school or employment (% ages 15-24),18.46,2010
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),64.082,2010
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),58.545,2010
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),5.81883,2010
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),32.338,2010
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),46.681,2010
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),18.424,2010
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),3.844319,2010
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.28923476,2010
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.397718578,2010
+KGZ,Kyrgyzstan,170006,Concentration index (exports) (value),0.285951433,2010
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",24.516503,2010
+KGZ,Kyrgyzstan,174306,Fossil fuel energy consumption (% of total energy consumption),70.51697531,2010
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.45182017,2010
+KGZ,Kyrgyzstan,175906,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female (%)",11.37847,2010
+KGZ,Kyrgyzstan,177706,Survival rate to the last grade of lower secondary general education (%),92.1081,2010
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),27.401594,2010
+KGZ,Kyrgyzstan,179706,Ratio of education and health expenditure to military expenditure,7.926105,2010
+KGZ,Kyrgyzstan,180706,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, male (%)",24.90758,2010
+KGZ,Kyrgyzstan,181206,Proportion of births attended by skilled health personnel (%),98.3,2010
+KGZ,Kyrgyzstan,181706,Rural population with access to electricity (%),98.556413,2010
+KGZ,Kyrgyzstan,181806,Current health expenditure (% of GDP),6.950272,2010
+KGZ,Kyrgyzstan,182106,"Malaria incidence (per 1,000 people at risk)",0.00071,2010
+KGZ,Kyrgyzstan,182206,"Tuberculosis incidence (per 100,000 people)",120,2010
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),57,2010
+KGZ,Kyrgyzstan,183506,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female (%)",41.23943,2010
+KGZ,Kyrgyzstan,183706,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are male (%)",58.76057,2010
+KGZ,Kyrgyzstan,183906,"Labour share of GDP, comprising wages and social protection transfers (%)",39.90000153,2010
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",2.91389,2010
+KGZ,Kyrgyzstan,185106,"Age-standardized mortality rate attributed to noncommunicable diseases, female",676.3,2010
+KGZ,Kyrgyzstan,185206,"Age-standardized mortality rate attributed to noncommunicable diseases, male",1054.5,2010
+KGZ,Kyrgyzstan,186706,"Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP)",0.40558,2010
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",22.56017451,2010
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),4141.077205,2010
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",1.164249147,2010
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3889.734935,2010
+KGZ,Kyrgyzstan,195906,"Domestic material consumption per capita, (tonnes)",7.14638,2010
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",19.04,2010
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",2.37,2010
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),38.445,2009
+KGZ,Kyrgyzstan,45806,Primary school teachers trained to teach (%),65.74822,2009
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",24.03166,2009
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.15997,2009
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),68.336,2009
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.47558,2009
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.39632,2009
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.743630769,2009
+KGZ,Kyrgyzstan,103606,Income index,0.559247882,2009
+KGZ,Kyrgyzstan,103706,Education index,0.693087889,2009
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.661,2009
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),12.194324,2009
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",11.437402,2009
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),27.270355,2009
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),55,2009
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",1.33091,2009
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),4053.889639,2009
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),41.28,2008
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",24.19711,2008
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.19017,2008
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),67.879,2008
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.42618,2008
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.33522308,2008
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.7366,2008
+KGZ,Kyrgyzstan,103606,Income index,0.556411503,2008
+KGZ,Kyrgyzstan,103706,Education index,0.689679103,2008
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.656,2008
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),1.5447172,2008
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",12.342879,2008
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),28.94896,2008
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),54,2008
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",5.34732,2008
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3978.479809,2008
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),44.254,2007
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",24.2314,2007
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.23425,2007
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),67.51,2007
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.66438,2007
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.27412616,2007
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.730923077,2007
+KGZ,Kyrgyzstan,103606,Income index,0.550023623,2007
+KGZ,Kyrgyzstan,103706,Education index,0.694259205,2007
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.654,2007
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),13.345231,2007
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",9.3976375,2007
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),26.642997,2007
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),52,2007
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",1.79385,2007
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3813.744666,2007
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),47.257,2006
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",23.84174,2006
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.23014,2006
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),67.236,2006
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.68767,2006
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.21302924,2006
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.726707692,2006
+KGZ,Kyrgyzstan,103606,Income index,0.538484667,2006
+KGZ,Kyrgyzstan,103706,Education index,0.692869586,2006
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.647,2006
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),1.5428681,2006
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",7.6442039,2006
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),24.195761,2006
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),50,2006
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",1.63922,2006
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3533.266593,2006
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),86.23,2005
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",91.31579,2005
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",87.9,2005
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",10.0856,2005
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",10.2289,2005
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),0.1,2005
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",34.35,2005
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),48.452,2005
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",10.5338,2005
+KGZ,Kyrgyzstan,44206,Total population (millions),5.07534,2005
+KGZ,Kyrgyzstan,45106,Urban population (%),35.3,2005
+KGZ,Kyrgyzstan,45806,Primary school teachers trained to teach (%),57.96153,2005
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),10.6722,2005
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),1.91988,2005
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",24.48841,2005
+KGZ,Kyrgyzstan,47906,Median age (years),23.832,2005
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",54.057,2005
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",76.086,2005
+KGZ,Kyrgyzstan,49006,Sex ratio at birth (male to female births),1.05,2005
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.19861,2005
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",12.732467,2005
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",1.7301202,2005
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",34.070003,2005
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",39.229215,2005
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",143.731,2005
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",300.73,2005
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.1,2005
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",9.674228722,2005
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),3.217816,2005
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",98.852,2005
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",86.58277,2005
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",42.58229,2005
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2005
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",2,2005
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),16.00607339,2005
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.676,2005
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),67.046,2005
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.56246,2005
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",82,2005
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),0.463632268,2005
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),10.02762,2005
+KGZ,Kyrgyzstan,100806,Forest area (% of total land area),4.532325275,2005
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.15193232,2005
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.723784615,2005
+KGZ,Kyrgyzstan,103606,Income index,0.532420296,2005
+KGZ,Kyrgyzstan,103706,Education index,0.687354966,2005
+KGZ,Kyrgyzstan,110806,"Net migration rate (per 1,000 people)",-6.919,2005
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",14.496,2005
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),-1.822174,2005
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",71.212,2005
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",63.101,2005
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),48.826,2005
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),8.9,2005
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",12.7642,2005
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",12.1749,2005
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",2402.201484,2005
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",4403.555441,2005
+KGZ,Kyrgyzstan,128306,"Prison population (per 100,000 people)",310.5,2005
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.286395,2005
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.482884,2005
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",13.41141,2005
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),95.084005,2005
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.628765365,2005
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.64825255,2005
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.642,2005
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.9699389,2005
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",8.11,2005
+KGZ,Kyrgyzstan,147206,International student mobility (% of total tertiary enrolment),9.29057,2005
+KGZ,Kyrgyzstan,147906,Youth not in school or employment (% ages 15-24),18.827,2005
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),64.847,2005
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),59.588,2005
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),4.87384,2005
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),38.5,2005
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),43.92,2005
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),46.527,2005
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),4.0520624,2005
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.221397733,2005
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.214440541,2005
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",14.811216,2005
+KGZ,Kyrgyzstan,174306,Fossil fuel energy consumption (% of total energy consumption),66.02258082,2005
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.88772394,2005
+KGZ,Kyrgyzstan,175906,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female (%)",15.48053,2005
+KGZ,Kyrgyzstan,177706,Survival rate to the last grade of lower secondary general education (%),93.18328,2005
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),16.418207,2005
+KGZ,Kyrgyzstan,179706,Ratio of education and health expenditure to military expenditure,7.633754,2005
+KGZ,Kyrgyzstan,180706,"Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, male (%)",15.44016,2005
+KGZ,Kyrgyzstan,181206,Proportion of births attended by skilled health personnel (%),97.9,2005
+KGZ,Kyrgyzstan,181706,Rural population with access to electricity (%),99.259519,2005
+KGZ,Kyrgyzstan,181806,Current health expenditure (% of GDP),7.450107,2005
+KGZ,Kyrgyzstan,182106,"Malaria incidence (per 1,000 people at risk)",0.05709,2005
+KGZ,Kyrgyzstan,182206,"Tuberculosis incidence (per 100,000 people)",143,2005
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),49,2005
+KGZ,Kyrgyzstan,183506,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female (%)",56.84905,2005
+KGZ,Kyrgyzstan,183706,"Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are male (%)",43.15095,2005
+KGZ,Kyrgyzstan,183906,"Labour share of GDP, comprising wages and social protection transfers (%)",38,2005
+KGZ,Kyrgyzstan,184306,"Number of deaths and missing persons attributed to disasters (per 100,000 population)",1.37922,2005
+KGZ,Kyrgyzstan,186706,"Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP)",0.40803,2005
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",18.1605839,2005
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),3517.720509,2005
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",1.086349367,2005
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3394.227672,2005
+KGZ,Kyrgyzstan,195906,"Domestic material consumption per capita, (tonnes)",6.86572,2005
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",21.82,2005
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",1.5,2005
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),49.844,2004
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.912,2004
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.49635,2004
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.0908354,2004
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.721723077,2004
+KGZ,Kyrgyzstan,103606,Income index,0.53252059,2004
+KGZ,Kyrgyzstan,103706,Education index,0.683482013,2004
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.64,2004
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),47,2004
+KGZ,Kyrgyzstan,183906,"Labour share of GDP, comprising wages and social protection transfers (%)",38.59999847,2004
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3396.482031,2004
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),50.979,2003
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.792,2003
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.5509,2003
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),10.02973848,2003
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.719876923,2003
+KGZ,Kyrgyzstan,103606,Income index,0.526419764,2003
+KGZ,Kyrgyzstan,103706,Education index,0.682960727,2003
+KGZ,Kyrgyzstan,128306,"Prison population (per 100,000 people)",337.7,2003
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.637,2003
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),47,2003
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3262.038415,2003
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),51.499,2002
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.657,2002
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.28665,2002
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),9.96864156,2002
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.7178,2002
+KGZ,Kyrgyzstan,103606,Income index,0.51723506,2002
+KGZ,Kyrgyzstan,103706,Education index,0.673583885,2002
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.63,2002
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),47,2002
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3069.604946,2002
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),51.487,2001
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.503,2001
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.19281,2001
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),9.90754464,2001
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.715430769,2001
+KGZ,Kyrgyzstan,103606,Income index,0.518070005,2001
+KGZ,Kyrgyzstan,103706,Education index,0.668940655,2001
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.628,2001
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),46,2001
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3086.618843,2001
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),79.8,2000
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",87.311965,2000
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",79.66,2000
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",9.703,2000
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",10.0042,2000
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),6,2000
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",62.53,2000
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),51.505,2000
+KGZ,Kyrgyzstan,43606,"Internet users, total (% of population)",1.0414,2000
+KGZ,Kyrgyzstan,44206,Total population (millions),4.920712,2000
+KGZ,Kyrgyzstan,45106,Urban population (%),35.3,2000
+KGZ,Kyrgyzstan,46006,Mobile phone subscriptions (per 100 people),0.1829,2000
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),6.9665,2000
+KGZ,Kyrgyzstan,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",24.14416,2000
+KGZ,Kyrgyzstan,47906,Median age (years),22.527,2000
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",55.236,2000
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",73.928,2000
+KGZ,Kyrgyzstan,49006,Sex ratio at birth (male to female births),1.07,2000
+KGZ,Kyrgyzstan,52306,Research and development expenditure (% of GDP),0.15637,2000
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",0.16381206,2000
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",-0.17231107,2000
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",42.2132,2000
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",49.451987,2000
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",149.684,2000
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",297.763,2000
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.1,2000
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",8.738572792,2000
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),2.930402,2000
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",96.33526,2000
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",84.75101,2000
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",35.40403,2000
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2000
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",1,2000
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),18.02664414,2000
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.481,2000
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.338,2000
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),11.84478,2000
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",79,2000
+KGZ,Kyrgyzstan,97306,Natural resource depletion (% of GNI),0.521290587,2000
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),15.015278,2000
+KGZ,Kyrgyzstan,100806,Forest area (% of total land area),4.474973868,2000
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),9.84644772,2000
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.712892308,2000
+KGZ,Kyrgyzstan,103606,Income index,0.508039841,2000
+KGZ,Kyrgyzstan,103706,Education index,0.657236591,2000
+KGZ,Kyrgyzstan,110806,"Net migration rate (per 1,000 people)",-1.15,2000
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",12.461,2000
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),59,2000
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),0.5948643,2000
+KGZ,Kyrgyzstan,112506,"Suicide rate, male (per 100,000 people, age-standardized)",26.5,2000
+KGZ,Kyrgyzstan,112606,"Suicide rate, female (per 100,000 people, age-standardized)",5.4,2000
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",70.387,2000
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",62.417,2000
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),58.672,2000
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),9.247,2000
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",11.9068,2000
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",11.6386,2000
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",2125.134172,2000
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",3668.681015,2000
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.27098,2000
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.537785,2000
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",9.92434,2000
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),89.430932,2000
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.605968574,2000
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.627403326,2000
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.62,2000
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.96583577,2000
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",7.54,2000
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),64.323,2000
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),59.473,2000
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),3.50837,2000
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),53.075,2000
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),36.454,2000
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),72.525,2000
+KGZ,Kyrgyzstan,164406,Adjusted net savings (% of GNI),-2.1703073,2000
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.331762202,2000
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.14145968,2000
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",30.195284,2000
+KGZ,Kyrgyzstan,174306,Fossil fuel energy consumption (% of total energy consumption),62.78335226,2000
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.95863134,2000
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),20.010037,2000
+KGZ,Kyrgyzstan,179706,Ratio of education and health expenditure to military expenditure,4.20811,2000
+KGZ,Kyrgyzstan,181206,Proportion of births attended by skilled health personnel (%),98.6,2000
+KGZ,Kyrgyzstan,181706,Rural population with access to electricity (%),99.707648,2000
+KGZ,Kyrgyzstan,181806,Current health expenditure (% of GDP),4.41415,2000
+KGZ,Kyrgyzstan,182106,"Malaria incidence (per 1,000 people at risk)",0.00313,2000
+KGZ,Kyrgyzstan,182206,"Tuberculosis incidence (per 100,000 people)",145,2000
+KGZ,Kyrgyzstan,182806,Population using safely managed drinking-water services (%),46,2000
+KGZ,Kyrgyzstan,185106,"Age-standardized mortality rate attributed to noncommunicable diseases, female",733.2,2000
+KGZ,Kyrgyzstan,185206,"Age-standardized mortality rate attributed to noncommunicable diseases, male",1139.3,2000
+KGZ,Kyrgyzstan,186706,"Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP)",0.44698,2000
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",15.08172908,2000
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),3078.909251,2000
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",0.935332123,2000
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),2888.322386,2000
+KGZ,Kyrgyzstan,195906,"Domestic material consumption per capita, (tonnes)",6.50352,2000
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",19.43,2000
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",0.98,2000
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),51.521,1999
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.185,1999
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),11.52617,1999
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),9.7853508,1999
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.710538462,1999
+KGZ,Kyrgyzstan,103606,Income index,0.502393296,1999
+KGZ,Kyrgyzstan,103706,Education index,0.646349749,1999
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.613,1999
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),2782.348363,1999
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),51.494,1998
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.07,1998
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),11.09569333,1998
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),9.547868632,1998
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.708769231,1998
+KGZ,Kyrgyzstan,103606,Income index,0.501541697,1998
+KGZ,Kyrgyzstan,103706,Education index,0.626475991,1998
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.606,1998
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),2766.706586,1998
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),4.761904762,1997
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),51.432,1997
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.007,1997
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),10.74263667,1997
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),9.398579088,1997
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.7078,1997
+KGZ,Kyrgyzstan,103606,Income index,0.502049143,1997
+KGZ,Kyrgyzstan,103706,Education index,0.611692544,1997
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.601,1997
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),2776.016503,1997
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),51.401,1996
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),65.997,1996
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),10.60828,1996
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),9.249289544,1996
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.707646154,1996
+KGZ,Kyrgyzstan,103606,Income index,0.49234567,1996
+KGZ,Kyrgyzstan,103706,Education index,0.602984096,1996
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.594,1996
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),2603.298478,1996
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),72.5,1995
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",79.25919887,1995
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",75.86,1995
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",8.8,1995
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",9.46,1995
+KGZ,Kyrgyzstan,31706,Share of seats in parliament (% held by women),4.761904762,1995
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",68.832,1995
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),51.338,1995
+KGZ,Kyrgyzstan,44206,Total population (millions),4.566096,1995
+KGZ,Kyrgyzstan,45106,Urban population (%),36.3,1995
+KGZ,Kyrgyzstan,46106,Primary school dropout rate (% of primary school cohort),3.78114,1995
+KGZ,Kyrgyzstan,47906,Median age (years),21.575,1995
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",56.461,1995
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",73.996,1995
+KGZ,Kyrgyzstan,49006,Sex ratio at birth (male to female births),1.05,1995
+KGZ,Kyrgyzstan,52606,"Remittances, inflows (% of GDP)",0.0748336,1995
+KGZ,Kyrgyzstan,53506,"Foreign direct investment, net inflows (% of GDP)",5.7850047,1995
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",52.378505,1995
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",62.793461,1995
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",143.575,1995
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",286.772,1995
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.1,1995
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",11.71679264,1995
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),2.600878,1995
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",111.67296,1995
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",88.12209,1995
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",21.13801,1995
+KGZ,Kyrgyzstan,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,1995
+KGZ,Kyrgyzstan,64406,"Infants lacking immunization, DTP (% of one-year-olds)",3,1995
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),20.37769974,1995
+KGZ,Kyrgyzstan,68606,Gender Inequality Index (GII),0.517,1995
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.036,1995
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),10.57539,1995
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",101,1995
+KGZ,Kyrgyzstan,99106,Net official development assistance received (% of GNI),15.088341,1995
+KGZ,Kyrgyzstan,100806,Forest area (% of total land area),4.417883084,1995
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),9.1,1995
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.708246154,1995
+KGZ,Kyrgyzstan,103606,Income index,0.483370208,1995
+KGZ,Kyrgyzstan,103706,Education index,0.597094167,1995
+KGZ,Kyrgyzstan,110806,"Net migration rate (per 1,000 people)",-12.362,1995
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",9.571,1995
+KGZ,Kyrgyzstan,111106,International inbound tourists (thousands),36,1995
+KGZ,Kyrgyzstan,111306,Private capital flows (% of GDP),-5.886509,1995
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",70.086,1995
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",61.981,1995
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),65.942,1995
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),9.618,1995
+KGZ,Kyrgyzstan,123306,"Expected years of schooling, female (years)",10.6017,1995
+KGZ,Kyrgyzstan,123406,"Expected years of schooling, male (years)",10.3265,1995
+KGZ,Kyrgyzstan,123506,"Estimated gross national income per capita, female (2017 PPP $)",1832.046319,1995
+KGZ,Kyrgyzstan,123606,"Estimated gross national income per capita, male (2017 PPP $)",3091.000016,1995
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.25016,1995
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.592099,1995
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",9.28252,1995
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),71.824269,1995
+KGZ,Kyrgyzstan,136906,"Human Development Index (HDI), female",0.573917451,1995
+KGZ,Kyrgyzstan,137006,"Human Development Index (HDI), male",0.597748707,1995
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.589,1995
+KGZ,Kyrgyzstan,137906,Gender Development Index (GDI),0.960131647,1995
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",5.6,1995
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),64.958,1995
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),61.32,1995
+KGZ,Kyrgyzstan,149206,Government expenditure on education (% of GDP),6.15643,1995
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),47.19,1995
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),36.09,1995
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),50.615,1995
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.347781218,1995
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.151231472,1995
+KGZ,Kyrgyzstan,174206,"Total debt service (% of exports of goods, services and primary income)",13.25058,1995
+KGZ,Kyrgyzstan,174306,Fossil fuel energy consumption (% of total energy consumption),64.67421508,1995
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",44.4239253,1995
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),18.340549,1995
+KGZ,Kyrgyzstan,181206,Proportion of births attended by skilled health personnel (%),98,1995
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",11.47982401,1995
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),2517.28445,1995
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",0.987933675,1995
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),2453.120945,1995
+KGZ,Kyrgyzstan,196006,"Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare)",16.59,1995
+KGZ,Kyrgyzstan,196106,"Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare)",0.75,1995
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),51.244,1994
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.114,1994
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),10.82424,1994
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),8.992,1994
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.709446154,1994
+KGZ,Kyrgyzstan,103606,Income index,0.493787802,1994
+KGZ,Kyrgyzstan,103706,Education index,0.600406667,1994
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.595,1994
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),2628.271231,1994
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),51.039,1993
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.206,1993
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),11.25519,1993
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),8.884,1993
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.710861538,1993
+KGZ,Kyrgyzstan,103606,Income index,0.530944773,1993
+KGZ,Kyrgyzstan,103706,Education index,0.6087775,1993
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.612,1993
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3361.234012,1993
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),50.799,1992
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.288,1992
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),11.6238,1992
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),8.776,1992
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.712123077,1992
+KGZ,Kyrgyzstan,103606,Income index,0.556901762,1992
+KGZ,Kyrgyzstan,103706,Education index,0.615416667,1992
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.625,1992
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),3991.413138,1992
+KGZ,Kyrgyzstan,43006,Vulnerable employment (% of total employment),50.532,1991
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.34,1991
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),11.79102,1991
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),8.668,1991
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.712923077,1991
+KGZ,Kyrgyzstan,103606,Income index,0.58089448,1991
+KGZ,Kyrgyzstan,103706,Education index,0.616461667,1991
+KGZ,Kyrgyzstan,110906,"Unemployment, youth (% ages 15–24)",2.088,1991
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.634,1991
+KGZ,Kyrgyzstan,140606,"Unemployment, total (% of labour force)",1,1991
+KGZ,Kyrgyzstan,148306,Employment to population ratio (% ages 15 and older),61.371,1991
+KGZ,Kyrgyzstan,150606,Employment in agriculture (% of total employment),35.5,1991
+KGZ,Kyrgyzstan,150706,Employment in services (% of total employment),37.95,1991
+KGZ,Kyrgyzstan,153706,Working poor at PPP$3.20 a day (% of total employment),23.42,1991
+KGZ,Kyrgyzstan,169706,Total unemployment rate (female to male ratio),1.555555556,1991
+KGZ,Kyrgyzstan,169806,Youth unemployment rate (female to male ratio),1.395361679,1991
+KGZ,Kyrgyzstan,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.3215142,1991
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),4678.506291,1991
+KGZ,Kyrgyzstan,23806,Population with at least some secondary education (% ages 25 and older),66.5,1990
+KGZ,Kyrgyzstan,23906,"Population with at least some secondary education, female (% ages 25 and older)",71.13586844,1990
+KGZ,Kyrgyzstan,24006,"Population with at least some secondary education, male (% ages 25 and older)",71.05,1990
+KGZ,Kyrgyzstan,24106,"Mean years of schooling, female (years)",8.13,1990
+KGZ,Kyrgyzstan,24206,"Mean years of schooling, male (years)",9.07,1990
+KGZ,Kyrgyzstan,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",50.41,1990
+KGZ,Kyrgyzstan,44206,Total population (millions),4.372885,1990
+KGZ,Kyrgyzstan,45106,Urban population (%),37.8,1990
+KGZ,Kyrgyzstan,47906,Median age (years),21.765,1990
+KGZ,Kyrgyzstan,48706,"Labour force participation rate (% ages 15 and older), female",49.759,1990
+KGZ,Kyrgyzstan,48806,"Labour force participation rate (% ages 15 and older), male",74.392,1990
+KGZ,Kyrgyzstan,49006,Sex ratio at birth (male to female births),1.05,1990
+KGZ,Kyrgyzstan,57206,"Mortality rate, infant (per 1,000 live births)",53.881056,1990
+KGZ,Kyrgyzstan,57506,"Mortality rate, under-five (per 1,000 live births)",64.813109,1990
+KGZ,Kyrgyzstan,57806,"Mortality rate, female adult (per 1,000 people)",134.154,1990
+KGZ,Kyrgyzstan,57906,"Mortality rate, male adult (per 1,000 people)",266.011,1990
+KGZ,Kyrgyzstan,58006,"HIV prevalence, adult (% ages 15-49)",0.1,1990
+KGZ,Kyrgyzstan,61006,"Homicide rate (per 100,000 people)",13.78952339,1990
+KGZ,Kyrgyzstan,63106,Population ages 15–64 (millions),2.515934,1990
+KGZ,Kyrgyzstan,63206,"Gross enrolment ratio, primary (% of primary school-age population)",111.01194,1990
+KGZ,Kyrgyzstan,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",105.01862,1990
+KGZ,Kyrgyzstan,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",26.78469,1990
+KGZ,Kyrgyzstan,65606,Gross fixed capital formation (% of GDP),21.96261682,1990
+KGZ,Kyrgyzstan,69206,Life expectancy at birth (years),66.337,1990
+KGZ,Kyrgyzstan,69706,Expected years of schooling (years),12.02075,1990
+KGZ,Kyrgyzstan,89006,"Maternal mortality ratio (deaths per 100,000 live births)",74,1990
+KGZ,Kyrgyzstan,100806,Forest area (% of total land area),4.358706986,1990
+KGZ,Kyrgyzstan,103006,Mean years of schooling (years),8.56,1990
+KGZ,Kyrgyzstan,103206,Life expectancy index,0.712876923,1990
+KGZ,Kyrgyzstan,103606,Income index,0.595167174,1990
+KGZ,Kyrgyzstan,103706,Education index,0.619243056,1990
+KGZ,Kyrgyzstan,110806,"Net migration rate (per 1,000 people)",-6.067,1990
+KGZ,Kyrgyzstan,120606,"Life expectancy at birth, female (years)",70.166,1990
+KGZ,Kyrgyzstan,121106,"Life expectancy at birth, male (years)",62.277,1990
+KGZ,Kyrgyzstan,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),65.066,1990
+KGZ,Kyrgyzstan,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),8.742,1990
+KGZ,Kyrgyzstan,132706,Population ages 65 and older (millions),0.219942,1990
+KGZ,Kyrgyzstan,132806,Population under age 5 (millions),0.627933,1990
+KGZ,Kyrgyzstan,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",34.08187,1990
+KGZ,Kyrgyzstan,133206,Exports and imports (% of GDP),78.738318,1990
+KGZ,Kyrgyzstan,137506,Human Development Index (HDI),0.64,1990
+KGZ,Kyrgyzstan,148206,Labour force participation rate (% ages 15 and older),61.596,1990
+KGZ,Kyrgyzstan,174306,Fossil fuel energy consumption (% of total energy consumption),93.52393516,1990
+KGZ,Kyrgyzstan,178306,Gross capital formation (% of GDP),24.065421,1990
+KGZ,Kyrgyzstan,181206,Proportion of births attended by skilled health personnel (%),98.9,1990
+KGZ,Kyrgyzstan,194506,"Gross domestic product (GDP), total (2017 PPP $ billions)",22.65120411,1990
+KGZ,Kyrgyzstan,194906,GDP per capita (2017 PPP $),5158.317569,1990
+KGZ,Kyrgyzstan,195606,"Carbon dioxide emissions, production emissions per capita (tonnes)",4.846708752,1990
+KGZ,Kyrgyzstan,195706,Gross national income (GNI) per capita (constant 2017 PPP$),5142.11859,1990
